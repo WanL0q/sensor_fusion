@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/loq/AA_ws/src/sensor_fusion/build/devel/setup.sh

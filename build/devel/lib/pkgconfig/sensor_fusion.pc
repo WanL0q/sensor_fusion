@@ -1,0 +1,8 @@
+prefix=/home/loq/AA_ws/src/sensor_fusion/build/devel
+
+Name: sensor_fusion
+Description: Description of sensor_fusion
+Version: 0.0.0
+Cflags: -I/home/loq/AA_ws/src/sensor_fusion/include
+Libs: -L${prefix}/lib -lsensor_fusion
+Requires: geometry_msgs nav_msgs roscpp rospy sensor_msgs std_msgs tf
