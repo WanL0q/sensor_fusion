@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/loq/test_ws/devel/lib/python3/dist-packages",
+        "/home/loq/AA_ws/devel/lib/python3/dist-packages",
+        "/home/loq/carto_ws/install_isolated/lib/python3/dist-packages",
+        "/home/loq/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/loq/test_ws/devel/lib/python3/dist-packages",
+        "/home/loq/AA_ws/devel/lib/python3/dist-packages",
+        "/home/loq/carto_ws/install_isolated/lib/python3/dist-packages",
+        "/home/loq/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

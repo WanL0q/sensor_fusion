@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/loq/test_ws/devel/include/**",
+        "/home/loq/AA_ws/devel/include/**",
+        "/home/loq/carto_ws/install_isolated/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/loq/AA_ws/src/joystick/include/**",
+        "/home/loq/AA_ws/src/modbus/include/**",
+        "/home/loq/AA_ws/src/ros_imu_bno055/include/**",
+        "/home/loq/test_ws/src/sensor_fusion/include/**",
+        "/home/loq/AA_ws/src/zorro/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
